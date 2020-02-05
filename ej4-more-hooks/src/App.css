@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App input:not([type="radio"]):not([type="checkbox"]),
+.App .radios,
+.App select,
+.App button {
+  display: block;
+  margin: 15px auto;
+}

@@ -1,0 +1,24 @@
+.acordeon button {
+  background-color: #0378f8;
+  border: 1px solid #0255b1;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  outline: 0;
+  padding: 8px 10px;
+  transition: background-color 0.2s ease;
+  width: 120px;
+}
+
+.acordeon button:hover {
+  background-color: #49a0ff;
+}
+
+.acordeon.abierto button {
+  background-color: #ccc;
+  border: 1px solid #888;
+}
+
+.acordeon.abierto button:hover {
+  background-color: #ddd;
+}

@@ -1,0 +1,37 @@
+{
+    "chatList": [
+        {
+            "id": 428,
+            "image": "https://i.imgur.com/qZ7rnBT.png",
+            "name": "Alejandra Álvarez",
+            "lastMessage": {
+                "status": "received",
+                "text": "Si, ya llegué",
+                "date": "2019-12-09T21:26:15Z"
+            },
+            "unread": 2
+        },
+        {
+            "id": 583,
+            "image": "https://i.imgur.com/n66ud8D.png",
+            "name": "Bruno Bautista",
+            "lastMessage": {
+                "status": "delivered",
+                "text": "Al final vienes?",
+                "date": "2019-12-09T16:12:45Z"
+            },
+            "unread": 0
+        },
+        {
+            "id": 472,
+            "image": "https://i.imgur.com/Hq7oUeh.png",
+            "name": "Carla Cifuentes",
+            "lastMessage": {
+                "status": "read",
+                "text": "Ok",
+                "date": "2019-12-08T11:07:30Z"
+            },
+            "unread": 0
+        }
+    ]
+}

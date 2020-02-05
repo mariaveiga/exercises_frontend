@@ -1,0 +1,47 @@
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: #88f;
+  color: white;
+}
+
+header a {
+  color: white;
+  margin-left: 20px
+}
+
+header a.active {
+  color: red;
+}
+
+.app {
+  display: flex;
+  align-items: stretch;
+  min-height: 100vh
+}
+
+.app .user-list {
+  padding: 10px 30px;
+  margin: 0;
+  background-color: #ccc;
+}
+.app .user-list .active {
+  color: red;
+}
+
+.app .ficha-y-boton {
+  padding: 30px;
+}

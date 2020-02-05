@@ -1,0 +1,9 @@
+aside a {
+  text-decoration: none;
+  color: black;
+}
+
+aside a.active {
+  color: blue;
+  text-decoration: underline;
+}

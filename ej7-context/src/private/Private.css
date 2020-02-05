@@ -1,0 +1,31 @@
+.private-layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.private-layout header {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  text-align: right;
+}
+
+.private-layout header img {
+  border-radius: 100%;
+  height: 40px;
+  width: 40px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.private-middle {
+  display: flex;
+}
+
+.private-middle aside {
+  flex: 0 0 120px;
+  border-right: 1px solid black;
+}
+
+.private-middle main {
+  padding: 20px;
+}

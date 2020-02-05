@@ -1,0 +1,16 @@
+.login-form {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid darkblue;
+  margin: 20px auto;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.login-form label {
+  display: block;
+}
+
+.login-form button {
+  margin-top: 10px;
+}

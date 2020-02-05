@@ -1,0 +1,12 @@
+.profile img {
+  width: 120px;
+  height: 120px;
+  display: block;
+  border: 1px solid black;
+  margin: 10px 30px;
+}
+
+.profile.theme-dark {
+  background-color: black;
+  color: white;
+}
